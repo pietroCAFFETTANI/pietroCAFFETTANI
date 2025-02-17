@@ -31,4 +31,4 @@
 
 
 <h2 align="center">GitHub Stats</h2>
-![Snake animation] (https://github.com/pietroCAFFETTANI/pietroCAFFETTANI/blob/output/github-contribution-grid-snake.svg)
+![snake-gif] (https://github.com/pietroCAFFETTANI/pietroCAFFETTANI/blob/output/github-contribution-grid-snake.svg)
