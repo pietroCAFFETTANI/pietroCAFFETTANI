@@ -32,15 +32,16 @@
 
 <br></br>
 
+
+<h2 align="center">GitHub Stats</h2>
 ![Snake animation](https://github.com/pietroCAFFETTANI/pietroCAFFETTANI/blob/output/ocean.gif)
 <br></br>
-<h2 align="center">GitHub Stats</h2>
 <div align="center">
 <a href="https://github.com/pietroCAFFETTANI">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=felipeclarindo&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true&title_color=00ff00&border_color=00ff00&text_color=00ff00&icon_color=00ff00" height="180em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeclarindo&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=00ff00&border_color=00ff00&text_color=00ff00" height="180em" /> 
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pietroCAFFETTANI&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true&title_color=1F51FF0&border_color=1F51FF&text_color=1F51FF&icon_color=1F51FF" height="180em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroCAFFETTANI&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=1F51FF&border_color=1F51FF&text_color=1F51FF" height="180em" /> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F51FF&height=120&section=footer"/>
 </div>
 
 
