@@ -1,6 +1,4 @@
 
-![octocat-1739836943262](https://github.com/user-attachments/assets/abeb4474-7894-4a63-9e22-703b83e967db)
-
 
 <h2 align="center">About Me</h2>
 
