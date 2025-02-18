@@ -1,17 +1,14 @@
+
+![octocat-1739836943262](https://github.com/user-attachments/assets/abeb4474-7894-4a63-9e22-703b83e967db)
+
+
 <h2 align="center">About Me</h2>
 
 🎓Graduating in Computer Science.  
 💻Love to Code.     
 
 
-<p align='left'>
-  <a href="https://www.linkedin.com/in/pietro-caffettani-a3a12024a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=green" alt="LinkedIn">
-  </a>
-  <a href="mailto: p.caffettani@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=blue" alt="Gmail">
-  </a>
-</p>
+
 
 <br></br>
 
@@ -40,12 +37,20 @@
 
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pietroCAFFETTANI&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true&title_color=B026FF&border_color=B026FF&text_color=B026FF&icon_color=B026FF" height="150em" width="400em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroCAFFETTANI&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=B026FF&border_color=B026FF&text_color=B026FF" height="150em" width="400em" /> 
 
+<br></br>
 
 
 
 
+<h2 align="center">Contact Me</h2>
 
-
-
+<p align='left'>
+  <a href="https://www.linkedin.com/in/pietro-caffettani-a3a12024a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=purple" alt="LinkedIn">
+  </a>
+  <a href="mailto: p.caffettani@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="Gmail">
+  </a>
+</p>
  
 
