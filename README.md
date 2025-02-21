@@ -10,11 +10,14 @@
 
 <br></br>
 
-<h2 align="center">Stacks</h2>
+<h2 align="center">Technologies</h2>
 
-<div align="center">
+  
+<h4 align="left">Languages</h4>
+<div align="left">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60em"></img>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60em"></img> 
+</div>
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60em"></img>
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60em" /></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="60em"/>
@@ -23,7 +26,7 @@
   <img alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60em" ></img>
   <img alt="Spring Boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="100em" /></img>
   
-</div>
+
 
 <br></br>
 
