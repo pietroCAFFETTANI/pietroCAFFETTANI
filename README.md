@@ -26,11 +26,22 @@
 </div>
 
 
+<h4 align="left">Data Bases</h4>
+<div align="left">
+  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60em"></img>
+  <img alt="Spring Boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="100em" /></img>
+</div>
+
+
+<h4 align="left">Other Tools</h4>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="60em"/>
   <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60em"></img> 
-  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60em"></img>
   <img alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60em" ></img>
-  <img alt="Spring Boot" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="100em" /></img>
+</div>
+
+ 
+
   
 
 
