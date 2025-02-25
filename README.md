@@ -54,7 +54,7 @@
 ![Snake animation](https://github.com/pietroCAFFETTANI/pietroCAFFETTANI/blob/output/github-snake-dark.svg)
 <br></br>
 
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pietroCAFFETTANI&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true&title_color=B026FF&border_color=B026FF&text_color=B026FF&icon_color=B026FF" height="150em" width="400em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroCAFFETTANI&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=B026FF&border_color=B026FF&text_color=B026FF&nocache=1" height="150em" width="400em" /> 
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pietroCAFFETTANI&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true&title_color=B026FF&border_color=B026FF&text_color=B026FF&icon_color=B026FF&nocache=1" height="150em" width="400em"/>  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroCAFFETTANI&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=B026FF&border_color=B026FF&text_color=B026FF&nocache=1" height="150em" width="400em" /> 
 
 <br></br>
 
